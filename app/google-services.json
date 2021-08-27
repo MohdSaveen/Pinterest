@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174261239706",
+    "project_id": "pinterest-ce761",
+    "storage_bucket": "pinterest-ce761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174261239706:android:4af2f8ffb1037f0cc34423",
+        "android_client_info": {
+          "package_name": "com.example.pinterest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174261239706-cn5s4sjb6rlih58f5idnd325dlcuonpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuNtgIF8OTNo1-BZKUYv78MYuzkItWZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174261239706-cn5s4sjb6rlih58f5idnd325dlcuonpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
